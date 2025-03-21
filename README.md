@@ -8,7 +8,8 @@
 	input requires file similar to Sample_Super_Data.xlsx found in the proj root.dir, give full or relative path.
 
 
-
+ *Testing*
+ Run `python test_calc_super.py` that uses a mock input and standard pay_codes map to test super calculation and variance
 
 # Yellow Canary Code Challenge
 ## Objective
