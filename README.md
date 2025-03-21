@@ -1,6 +1,16 @@
+# Setup 
+1. `pip install -r requirements.txt`
+	
+	To install pandas, openpyxl
+
+2. Run app `python calc_super_disb_qtr.py`
+
+	input requires file similar to Sample_Super_Data.xlsx found in the proj root.dir, give full or relative path.
+
+
+
+
 # Yellow Canary Code Challenge
-
-
 ## Objective
 
 The task is to take in three pieces of data, payslips for an employee (employee code), payments (disbursements) made to a Super fund and a set of instructions of how to treat each type of payment (Pay Code)
